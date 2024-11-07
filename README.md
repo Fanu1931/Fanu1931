@@ -1,15 +1,6 @@
 <h1 align="center">Hi 👋, I'm Faneshwar Gite</h1>
 <h4 align="center">I'm a passionate SDET/QA Engineer specializing in test automation with tools like Cypress and selenium and solid foundation in javaScript and java My focuse is on ensuring quality through robust test suites and best practices in software testing.</h4>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=fanu1931&label=Profile%20views&color=0e75b6&style=flat" alt="fanu1931" /> 
-</p>
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=monokai" alt="fanu1931" />
-  </a> 
-</p>
-
 
 **💻 Skills:**
 - Programming Languages: Java, JavaScript, Python
