@@ -1,25 +1,26 @@
 <h1 align="center">Hi 👋, I'm Faneshwar Gite</h1>
-<h4 align="center">I'm a passionate SDET/QA Engineer specializing in test automation with tools like Cypress and selenium and solid foundation in javaScript and java My focuse is on ensuring quality through robust test suites and best practices in software testing.</h4>
+<h4 align="center">Analytical Manual Tester with a solid background in softwaretesting. Skilled in manual testing, debugging
+software and writing automated tests. Proven ability to identify and document defects.
+Highly organized Manual Tester with strong technical and communication skills. Experienced in developing and
+executing test plans, debugging software and creating detailed bug reports.
+</h4>
 
 
 **💻 Skills:**
-- Programming Languages: Java, JavaScript, Python
-- Testing Tools: Cypress, Selenium, Postman, Jira
-- Testing Focus: Automated Testing, Manual Testing, Cross-Browser Compatibility
+- Programming Languages: HTML, CSS, JavaScript, Python
+- Testing Tools: Cypress, Postman, Jira
+- Testing Focus: Manual Testing, Cross-Browser Compatibility
 - Methodologies: Page Object Model (POM), Agile Development
 
 **🚀 Projects:**
 
-1. **Cypress Automation for Tutorials Ninja Search Functionality:**  
-   Automated the search functionality of a demo website using Cypress.
-
-2. **Affiliate Functionality Testing on OpenCart Demo Website:**  
+1. **Affiliate Functionality Testing on OpenCart Demo Website:**  
    Evaluated the affiliate marketing features of the OpenCart demo site. 
 
-3. **Employee Management System and String Manipulation Utility:**  
+2. **Employee Management System and String Manipulation Utility:**  
    Developed an employee management system with string processing capabilities.
    
-5. **Movie Rental System:**  
+3. **Movie Rental System:**  
    Created a secure movie rental system with user account management and movie inventory features. 
 
 **🌱 Current Focus:**
