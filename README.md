@@ -29,7 +29,7 @@ executing test plans, debugging software and creating detailed bug reports.
 **📞 Get in Touch:**
 - **GitHub:** https://github.com/Fanu1931
 - **📫 Mail:** faneshwargite2018@gmail.com
-- **📄 Resume Link:** https://resume-builder-test-new.masaischool.com/resume/public?resumeId=6726fdbb6f511f3183f248e2
+- **📄 Resume Link:** (https://drive.google.com/file/d/1oz2vlrhrsk9Zcumkj8VN-BULgP8z0FeH/view?usp=sharing)
   
 **✨ Excited about building and testing quality software that delivers great user experiences! ✨**
 
